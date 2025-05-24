@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cameron White — a security engineer interested in red teaming, ethical hacking, signal hunting, and developing/improving tools for all of the above.
+Cameron White, security engineer focused in red teaming, ethical hacking, signal hunting, and developing/improving tools for all of the above.
 
 Professionally I work across roles in security operations, engineering, and automation. My day involves building and maintaining systems that manage access for thousands of users.
 
