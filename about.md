@@ -4,12 +4,42 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cameron White — a security engineer interested in red teaming, ethical hacking, signal hunting, and developing/improving tools for all of the above.
 
-### More Information
+Professionally I work across roles in security operations, engineering, and automation. My day involves building and maintaining systems that manage access for thousands of users.
 
-A place to include any other types of information that you'd like to include about yourself.
+When I have time away from access policies or building internal tools, I will be sharing writeups here on specialized tools, RF/Microwave research, bug bounties, CTF walkthroughs, or whatever mini project I’ve been obsessing over that week.
 
-### Contact me
+---
 
-[email@domain.com](mailto:email@domain.com)
+### 🧰 Skills & Interests
+
+- Red teaming & ethical hacking
+- Identity & Access Management (Okta, Auth0)
+- Python & Go development
+- Cloud security (GCP, AWS)
+- Security automation & tool building
+- Terraform, Bash scripting
+- Security compliance (HIPAA, SOX, PCI)
+
+---
+
+### 📜 Certifications
+
+- CompTIA Pentest+
+- CompTIA Security+
+- HashiCorp Terraform Associate
+- Okta Certified Professional
+- JAMF Certified Associate
+- PJPT (WIP)
+- CEH (WIP)
+
+---
+
+### 📬 Contact Me
+
+Feel free to reach out!
+
+📧 [cam@icrs.dev](mailto:cam@icrs.dev)  
+🐙 [github.com/nullsweep](https://github.com/nullsweep)  
+💼 [linkedin.com/in/camerongwhite](https://www.linkedin.com/in/camerongwhite/)
