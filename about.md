@@ -10,6 +10,10 @@ Professionally I work across roles in security operations, engineering, and auto
 
 When I have time away from access policies or building internal tools, I will be sharing writeups here on specialized tools, RF/Microwave research, bug bounties, CTF walkthroughs, or whatever mini project I’ve been obsessing over that week.
 
+### 🧬 Hack The Box
+
+[![Hack The Box](https://www.hackthebox.com/badge/image/758144)](https://app.hackthebox.com/profile/758144)
+
 ---
 
 ### 🧰 Skills & Interests
