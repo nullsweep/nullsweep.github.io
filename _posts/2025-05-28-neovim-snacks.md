@@ -101,3 +101,9 @@ After saving and running nvim, it should install all of the necessary packages f
 ![snacks.png](../assets/snacks.png)
 
 I will share my personal dotfiles next time!
+
+🔗 Resources / links:
+
+[lazy.nvim](https://lazy.folke.io/installation)
+
+[snacks.nvim](https://github.com/folke/snacks.nvim)
