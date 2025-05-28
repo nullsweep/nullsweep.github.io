@@ -9,6 +9,38 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+[data-theme="dark"] {
+  body {
+    background: $darkGray;
+    color: $white;
+  }
+
+  .site-name,
+  .site-description,
+  nav a,
+  h1, h2, h3, h4, h5, h6 {
+    color: $white;
+  }
+
+  a {
+    color: lighten($blue, 25%);
+  }
+
+  .wrapper-footer {
+    background-color: $darkGray;
+    border-color: $gray;
+  }
+
+  .posts > .post {
+    border-bottom: 1px solid $gray;
+  }
+
+  ::selection {
+    background: $blue;
+    color: $white;
+  }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
