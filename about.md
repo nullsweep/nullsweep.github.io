@@ -30,6 +30,7 @@ When I have time away from access policies or building internal tools, I will be
 
 ### 📜 Certifications
 
+- TCMSec PWPA
 - CompTIA Pentest+
 - CompTIA Security+
 - HashiCorp Terraform Associate
